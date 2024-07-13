@@ -1,8 +1,5 @@
-
-
 var cartarr = JSON.parse(localStorage.getItem("BagListObj"))||[];
        
-
         var itemcount =cartarr.length;
         localStorage.setItem("itemcount",itemcount)
 
@@ -19,7 +16,6 @@ var cartarr = JSON.parse(localStorage.getItem("BagListObj"))||[];
         },0);
         localStorage.setItem("amount",amount)
 
-        
        
         var discount = MRP - amount;
         localStorage.setItem("discount",discount)
