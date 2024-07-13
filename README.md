@@ -6,7 +6,6 @@ Welcome to the Myntra Clone project! This repository contains a full-stack web a
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Tech Stack](#tech-stack)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -27,13 +26,6 @@ This project aims to provide a comprehensive and interactive shopping experience
 - **Order Management**: Track your orders and view order history.
 - **Responsive Design**: Optimized for all device sizes.
 
-## Tech Stack
-
-- **Frontend**: React, Redux, HTML5, CSS3, Bootstrap
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **Authentication**: JSON Web Tokens (JWT)
-- **Hosting**: [Heroku](https://www.heroku.com/), [Netlify](https://www.netlify.com/)
 
 ## Installation
 
