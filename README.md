@@ -101,4 +101,4 @@ Thank you for checking out the Myntra Clone project. We hope you find it valuabl
 
 ---
 
-*This README was generated with ❤️ by Sneha Karn.*
+
